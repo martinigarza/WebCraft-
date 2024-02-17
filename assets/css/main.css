@@ -637,6 +637,7 @@ section {
   font-size: 32px;
   font-family: var(--font-secondary);
   color: #001f8d;
+  text-align: center;
 }
 
 .about .content ul {
