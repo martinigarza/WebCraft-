@@ -671,6 +671,8 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+  padding-left: 18rem;
+  padding-right: 18rem;
 }
 
 .about .play-btn {
