@@ -748,7 +748,7 @@ section {
   border: 1px solid rgba(14, 29, 52, 0.15);
   background: #fff;
   position: relative;
-  border-radius: 0;
+  border-radius: 10px;
   height: 100%;
 }
 
@@ -889,7 +889,7 @@ section {
   background: #fff;
   height: 100%;
   border-top: 4px solid #fff;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .pricing h3 {
