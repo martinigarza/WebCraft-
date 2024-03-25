@@ -674,6 +674,13 @@ section {
   overflow: hidden;
 }
 
+.whatsapp-float {
+  position: fixed;
+  bottom: 60px; /* Cambia este valor para ajustar la distancia desde la parte inferior */
+  right: 3px; /* Cambia este valor para ajustar la distancia desde la derecha */
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */
+}
+
 .about .play-btn:before {
   content: "";
   position: absolute;
