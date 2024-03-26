@@ -125,14 +125,15 @@ section {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  height: 500px;
 }
 
-.breadcrumbs .page-header:before {
+/* .breadcrumbs .page-header:before {
   content: "";
   background-color: rgba(14, 29, 52, 0.8);
   position: absolute; 
   inset: 0;
-}
+} */
 
 .breadcrumbs .page-header h2 {
   font-size: 56px;
@@ -1682,7 +1683,7 @@ section {
   width: 100%;
   min-height: 50vh;
   background-color: var(--color-secondary);
-  background-image: url("../img/hero-bg.png");
+  background-image: url("../img/Fondo.png");
   background-size: cover;
   background-position: center;
   position: relative;
